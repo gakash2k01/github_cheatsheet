@@ -1,0 +1,11 @@
+git init <file-name> : This is used to create a new repository to the current directory.
+cd <file-name> : This is used to open some file in the current directory.
+cd .. : This helps move out a step from the current directory.
+<editor name> <filename> : it is used to create/open a file in the given editor. eg: gedit ReadMe or nano ReadMe.
+touch <filename> : creates a file.
+git add <file-name> : adds the file to the environment. Use a "." instead of filename to add all.
+git status : to check status tree.
+git commit -m "<Commit message>" : To commit the changes.
+git remote add origin <repository link> : It is used to create an alias for the link.
+git push origin <branch name> : It pushes the commit to the given brnach. Default is master.
+
