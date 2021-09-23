@@ -8,4 +8,9 @@ git status : to check status tree.
 git commit -m "<Commit message>" : To commit the changes.
 git remote add origin <repository link> : It is used to create an alias for the link.
 git push origin <branch name> : It pushes the commit to the given brnach. Default is master.
+git branch : This is used to view all the branches.
+git branch -d <branch-name> : This is used to delete the local copy of any branch.
+git pull origin <branch-name> : pulls and updates the local branch according to the repository branch.
+git log : To see all commits.
+git checkout <branch-name> : To seitch to a branch.
 
