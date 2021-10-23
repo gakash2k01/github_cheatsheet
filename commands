@@ -13,4 +13,4 @@ git branch -d <branch-name> : This is used to delete the local copy of any branc
 git pull origin <branch-name> : pulls and updates the local branch according to the repository branch.
 git log : To see all commits.
 git checkout <branch-name> : To seitch to a branch.
-
+git clone <repository-link> : To clone the repository to pc
